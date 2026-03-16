@@ -1,4 +1,4 @@
-# [WATCH ME BUILD THE LAB HERE](https://www.loom.com/share/7d38985af54f49c6a4d7890e9beb720c)
+# 🎥[WATCH ME BUILD THE LAB HERE](https://www.loom.com/share/7d38985af54f49c6a4d7890e9beb720c)
 
 # Lab 02: Building-a-Secure-2-Tier-Web-Application
 This lab provides a hands -on, step-by-step guide to designing and deploying a secure 2-tier web application architecture, emphasizing, access control, and infrastructure security best practices.
